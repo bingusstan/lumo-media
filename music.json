@@ -1,0 +1,10 @@
+[
+  {
+    "id": "1",
+    "title": "test",
+    "artist": "test",
+    "genre": "test",
+    "audioUrl": "https://raw.githubusercontent.com/ТВОЙ_ЛОГИН/lumo-media/main/songs/song1.mp3",
+    "coverUrl": "https://raw.githubusercontent.com/ТВОЙ_ЛОГИН/lumo-media/main/covers/cover1.jpg"
+  }
+]
