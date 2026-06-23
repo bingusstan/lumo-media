@@ -1,10 +1,10 @@
 [
   {
     "id": "1",
-    "title": "test",
-    "artist": "test",
-    "genre": "test",
+    "title": "Ninjago Overture",
+    "artist": "Ninjago Music",
+    "genre": "Other",
     "audioUrl": "https://raw.githubusercontent.com/bingusstan/lumo-media/main/songs/test.mp3",
-    "coverUrl": "https://raw.githubusercontent.com/ТВОЙ_ЛОГИН/lumo-media/main/covers/cover1.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/bingusstan/lumo-media/main/covers/1.jpg"
   }
 ]
