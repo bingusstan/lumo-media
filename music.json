@@ -6,5 +6,13 @@
     "genre": "Other",
     "audioUrl": "https://raw.githubusercontent.com/bingusstan/lumo-media/main/songs/test.mp3",
     "coverUrl": "https://raw.githubusercontent.com/bingusstan/lumo-media/main/covers/1.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Собака Писала",
+    "artist": "Rozalia",
+    "genre": "Other",
+    "audioUrl": "https://raw.githubusercontent.com/bingusstan/lumo-media/main/songs/sobaka_pisala.mp3",
+    "coverUrl": "https://raw.githubusercontent.com/bingusstan/lumo-media/main/covers/sobaka_pisala.png"
   }
 ]
